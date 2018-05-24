@@ -1,4 +1,5 @@
-
+# Setup
+title:        Project or Site name
 tagline:      A responsive theme for your project on GitHub Pages
 
 theme: jekyll-theme-cayman
