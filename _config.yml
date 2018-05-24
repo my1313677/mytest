@@ -1,6 +1,13 @@
 # Setup
 title:        Project or Site name
 tagline:      A responsive theme for your project on GitHub Pages
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+
+#Others
+markdown: kramdown
 
 theme: jekyll-theme-cayman
 
