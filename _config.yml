@@ -6,8 +6,7 @@ paginate:     1
 locale:       "en"
 
 
-# Others
-markdown: kramdown
 
-# theme: jekyll-theme-cayman
+
+theme: jekyll-theme-cayman
 
